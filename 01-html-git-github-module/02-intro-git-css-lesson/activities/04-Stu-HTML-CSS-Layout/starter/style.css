@@ -1,0 +1,48 @@
+
+*
+{ margin:0;
+padding:0;
+}
+
+.header { text-align: center;
+background-color: black;
+color:antiquewhite ;
+padding-top: 1%;
+padding-bottom: 1%;
+
+}
+
+
+.container {
+
+    background-color: rgb(90, 60, 60);
+    color: antiquewhite;
+    width: 100%;
+    height: 100%;
+}
+
+.mainbio {
+
+    float: left;
+    width: 40%;
+    padding: 5%;
+    height: 100%;
+
+}
+
+.contactdetails {
+
+    float: left;
+    width: 40%;
+    padding: 5%;
+    
+}
+
+
+
+    .container:after {
+        content: "Ive never seen this before and it seems complicated";
+        display: table;
+        clear: both;
+        margin: 0%;
+}
