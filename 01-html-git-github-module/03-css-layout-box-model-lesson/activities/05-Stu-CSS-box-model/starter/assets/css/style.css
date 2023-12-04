@@ -1,12 +1,24 @@
+
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  padding: 2%;
+  margin: 5%;
+  border: 7px solid darkblue;
+  float:left;
+  
+
+}
+
+
+
+
 section {
+
   width: 600px;
   height: 600px;
   text-align: center;
   border: 15px solid black;
 }
 
-img {
-  width: 200px;
-  height: 200px;
-  background-color: lightblue;
-}

@@ -15,10 +15,12 @@ ul {
 li {
   list-style-type: none;
   font-size: 40px;
+  display: inline;
 }
 
 img {
   margin: 0 auto;
+  display: block;
 }
 
 #item-1 {
@@ -33,6 +35,4 @@ img {
   background-color: #999900;
 }
 
-#image-3 {
-  display: none;
-}
+
