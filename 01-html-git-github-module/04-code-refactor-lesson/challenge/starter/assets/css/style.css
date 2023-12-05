@@ -85,17 +85,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*changed from benefit-lead to lead-generation*/
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*changed from benefit-brand to lead generation*/
+
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* changed from benefit-cost to cost-management */
+
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,12 +105,12 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-/*changed from benefit-brand to brand-awareness*/
+
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* changed from benefit-cost to cost-management */
+
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
